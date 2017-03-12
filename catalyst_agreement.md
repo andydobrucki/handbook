@@ -15,7 +15,6 @@ Each aspect of the Catalyst design is there for a reason:
 * We want to make power visible, to enable people to navigate the social landscape and to step into leadership roles if they so desire, so we name Catalysts explicitly and make the processes of becoming one clear.
 * We enable any three members to appoint a Catalyst, without needing permission or approval from a majority, as one way to empower minority voices and avoid a homogeneous perspective.
 * Accountability and connection to wider network perspective is important, so catalysts are involved in creating, reviewing, and completing initiatives funded with collective resources.
-* Contributors are free to disagree with Catalysts, and can request funding without a Catalyst co-sponsor, so long as they have allowed time for review.
 * We want to scope a minimal role for the board of directors, so we delegate strategic leadership to Catalysts in a consciously designed way.
 
 
@@ -25,7 +24,6 @@ Enspiral members are responsible for ensuring that:
 
 * There will be at least 3 Catalysts at any given time.
 * Combined Catalyst time must equal at least 1FTE (eg: 2 people 2 days/week plus 1 person 1 day/week) or more.
-* Each Catalyst must make a time commitment of at least one day per week.
 * Catalysts serve a term of at least 6 months, and not more than 24 months.
 * Catalysts meet regularly for support and collaboration.
 
@@ -43,36 +41,23 @@ Catalysts follow up on all buckets funded (co-sponsored or not), and ensure the 
 
 **Maintain a Prioritised Network Issues and Initiatives List**
 
-This content must be accessible to everyone and kept up to date. Catalysts are expected to facilitate a range of inputs from the wider network to add issues, influence prioritisation, and shape the direction of the network.
+This content must be accessible to everyone and kept up to date. Catalysts are expected to facilitate a range of inputs from the wider network to add issues, influence prioritisation, and shape the direction of the network. *Note: this is currently implemented through [the Improvements Board](/guides/improvements.html).*
 
 ###Processes
 
 **Appointment**
 
-* Three Enspiral Members, acting as Catalyst Stewards, can contact and appoint a new Catalyst of their choice. 
+* Three Enspiral Members can contact and appoint a new Catalyst of their choice.
 * People who want to become Catalysts can gain support from three Enspiral Members to support their appointment.
-* Catalysts Stewards are expected to consult widely in the network before appointing a Catalyst to gather feedback.
-* Catalyst Stewards must consider the Diversity Agreement when making appointments.
-* New Catalyst appointments are announced in Enspiral News.
-
-
-**Constraints**
-
-* An Enspiral Member may only Steward one Catalyst at a time.
+* The supporting Members are expected to consider [the Diversity Agreement](/diversity_agreement.html), and consult widely in the network before appointing a Catalyst.
 * Catalysts must be Members or Contributors.
-* Catalyst Stewards must ensure that the prospective Catalyst is eligible (can make required commitment and has sufficient funding) and capable (has the skills and leadership capacity).
 
 **Support**
 
 * Catalysts are expected to provide robust peer support to other Catalysts.
-* The 3 nominating Catalyst Stewards must provide support and accountability role for the Catalyst for the duration of their term.
-* There must be three active Stewards for each Catalyst at all times or the Catalyst is removed unless another Steward can be found. 
 * Catalysts are invited to consult with previous Catalysts, the Enspiral Members, the Board of Directors, outside experts, and the wider network as needed.
-* If anyone has an issue with a Catalyst that cannot be resolved directly, the Stewards are the contact point.
 
 **Resourcing**
-
-Catalysts Stewards are expected to ensure that Catalysts they wish to appoint have sufficient resourcing in place to successfully fulfil their commitment. 
 
 Funding may come from a range of sources, such as:
 * Secondment from an Enspiral Venture.
@@ -86,7 +71,7 @@ Funding may come from a range of sources, such as:
 * A Catalyst may resign at any time (but expected to serve at least six months)
 * A Catalyst is automatically removed after two years.
 * Members can remove a Catalyst with a Loomio decision that goes on for at least 2 weeks, where at least 75% vote yes, regardless of any blocks and with no engagement threshold.
-* A Catalyst is automatically removed if they do not have three active Stewards.
+
 
 ###Expectations
 
@@ -97,6 +82,6 @@ Each Catalyst will have their own style of leadership, and diverse approaches ar
 * **Selfless** - subsume your personal motivations to those of the group.
 * **Kind** - care for the people, care for yourself. Ask for and offer support.
 * **Ambitious** - aim for high standards in both yourself and others.
-* **Inclusive** - consistently create opportunities for all kinds of people to engage. 
+* **Inclusive** - consistently create opportunities for all kinds of people to engage.
 * **Catalysing** - consciously develop leadership capacity in yourself and others.
 * **Holistic** - regard the bigger picture, the longer term, and the network as a whole.
