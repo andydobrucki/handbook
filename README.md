@@ -17,4 +17,6 @@ The book is broken up into chapters and sub-chapters. The chapters are:
 * [**Agreements**](agreements.md) are the official legislation that governs the Enspiral network. Changing these requires a formal process.
 * [**Guides**](guides.md) explain in practical terms how we do stuff, like [what communications tools to use](/guides/comms_guidelines.md), or [how to improve things at Enspiral](/guides/improvements.md). Any Contributor can change these.
 
-{% include 'contributing_hint.md' %}
+## Loose mindmap
+
+![](/assets/mindmap.png)
