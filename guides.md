@@ -12,7 +12,7 @@ Guides explain in practical terms how we do stuff. Any Contributor can change th
 * [Improvements](guides/improvements.md) - how to make changes to the network
 * [Onboarding Emails](guides/onboarding-info.md) - messages sent to new contributors
 * [Ops processes](guides/ops_processes.md) - a list of some of ops processes
-* [People\*](guides/people.md)
+* [People\*](guides/people.md) - Contributor Network on the net
 * [Stewarding](guides/stewarding.md) - how we look after people in the network
 
 {% include 'contributing_hint.md' %}
